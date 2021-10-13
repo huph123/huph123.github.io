@@ -3,4 +3,4 @@
 layout: default
 ---
 
-{% include index.html %}
+{% include main.html %}
